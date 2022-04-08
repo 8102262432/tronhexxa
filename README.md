@@ -1,0 +1,2 @@
+# tronhexxa
+HEXA is a token run on the tron blockchain platform designed to facilitate the creation and use of decentralized applications (DApps) .The network aims to innovate the way decentralized applications work by focusing on random state sharding , which allows creating blocks in seconds.     According to the project website , Hexa is expected to introduce cross-shard contracts and cross-chain infrastructure by the end of 2022 .
